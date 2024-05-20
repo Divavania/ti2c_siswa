@@ -5,6 +5,16 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Pendaftaran</title>
     <link rel="stylesheet" href="./vendor/twbs/bootstrap/dist/css/bootstrap.min.css">
+    <style>
+    body{
+      background-image : url(b.jpg);
+      background-size : cover;
+      background-repeat : no-repeat;
+      background-position : center;
+      background-attachment : fixed;
+      height : 100%;
+    }
+</style>
 </head>
 <body>
 
